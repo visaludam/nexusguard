@@ -1,0 +1,6 @@
+{
+  "name": "NexusGuard",
+  "description": "NexusGuard is an enterprise security investigation platform that helps security teams analyze unusual employee-related activity across multiple systems, connect signals, and explain risks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
